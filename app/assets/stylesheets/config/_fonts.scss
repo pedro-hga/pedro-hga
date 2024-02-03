@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@500&display=swap');
+
+@font-face {
+  font-family: 'Iosevka Curly Medium';
+  src: url(../../fonts/IosevkaCurly-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Iosevka Curly Bold';
+  src: url(../../fonts/IosevkaCurly-Bold.ttf) format('truetype');
+}
+
+
+$body-font: 'Iosevka Curly Medium', monospace;
+$headers-font: 'Iosevka Curly Bold', monospace;
