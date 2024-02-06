@@ -1,0 +1,28 @@
+.navbar {
+  border-bottom: 1px grey solid;
+  padding: 0;
+}
+
+.terminal {
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.terminal-path {
+  padding-bottom: 4px;
+  color: $blue;
+  font-weight: 800;
+}
+
+.terminal-command {
+  color: $light;
+}
+
+.fab {
+  color: $light;
+}
+
+.nav-link {
+  text-decoration: none;
+}
